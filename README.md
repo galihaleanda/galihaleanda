@@ -22,7 +22,7 @@
 Hi there 👋  
 
 I’m a backend-focused developer who loves understanding  
-how systems truly work — from request lifecycle to scalable architecture.
+how systems truly work, from request lifecycle to scalable architecture.
 
 
 🌸 Currently growing in:
