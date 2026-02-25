@@ -1,4 +1,4 @@
-<h1 align="center">🌸✨ Hi, I'm Galih Aleanda ✨🌸</h1>
+<h1 align="center">🌸Hi, I'm Galih Aleanda🌸</h1>
 <h3 align="center">☁️ Backend Engineer in Progress 💻💗</h3>
 
 <p align="center">
