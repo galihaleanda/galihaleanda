@@ -83,7 +83,7 @@ how systems truly work, from request lifecycle to scalable architecture.
 🩷🩷🩷🤍🤍 65%
 
 🌷 System Design  
-🩷🩷🤍🤍🤍 40%
+🩷🩷🩷🩷🤍 40%
 
 🌷 Concurrency  
 🩷🩷🤍🤍🤍 35%
