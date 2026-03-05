@@ -101,18 +101,6 @@ how systems truly work, from request lifecycle to scalable architecture.
 
 ---
 
-## 🌸 Featured Project
-
-### 🔗 URL Shortener
-  
-💗 Backend Repo : https://github.com/galihaleanda/golang-urlshortener  
-
-<p align="center">
-  🌷━━━━━━━━━━━ ☁️ ━━━━━━━━━━━🌷
-</p>
-
----
-
 ## 🌈 2-Year Roadmap
 
 ### 🌸 Year 1 — Strong Foundations
