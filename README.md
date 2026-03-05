@@ -41,35 +41,37 @@ how systems truly work, from request lifecycle to scalable architecture.
 
 ## 💗 Tech Stack
 
-### 🌸 Languages
-![Go](https://img.shields.io/badge/Go-ffb6c1?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-ffb6c1?style=for-the-badge)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-f8c8dc?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffc0cb?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-f8c8dc?style=for-the-badge)
+<div align="center">
+<table>
+<tr>
+<td align="center">
 
-### ☁️ Backend
-![REST API](https://img.shields.io/badge/REST-API-ffb6c1?style=for-the-badge)
-![Auth](https://img.shields.io/badge/Auth-Authentication-ffc0cb?style=for-the-badge)
-![Middleware](https://img.shields.io/badge/Middleware-Patterns-f8c8dc?style=for-the-badge)
+### 🌸 Languages
+<img src="https://skillicons.dev/icons?i=go,laravel,js" />
+
+</td>
+<td align="center">
 
 ### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffb6c1?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-ffc0cb?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-f8c8dc?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+
+</td>
+<td align="center">
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-ffc0cb?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-f8c8dc?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-ffb6c1?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-ffc0cb?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux" />
+
+</td>
+</tr>
+</table>
+</div>
 
 <p align="center">
   🐾✨━━━━━━━━━━━ 🌷 ━━━━━━━━━━━✨🐾
 </p>
 
 ---
+
 
 ## 🌈 Skill Progression
 
@@ -140,8 +142,9 @@ how systems truly work, from request lifecycle to scalable architecture.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=galihaleanda&theme=rose&hide_border=true" />
 </p>
-
----
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galihaleanda&theme=default" />
+</p>
 
 <p align="center">
   💗 Clean code. Soft aesthetics. Scalable systems. ☁️🌸
