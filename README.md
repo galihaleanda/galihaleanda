@@ -94,7 +94,7 @@ how systems truly work, from request lifecycle to scalable architecture.
 🩷🩷🤍🤍🤍 40%
 
 <p align="center">
-  Always leveling up like an RPG character 🎮✨
+Leveling up like an RPG character 🎮✨
 </p>
 
 <p align="center">
