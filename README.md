@@ -1,8 +1,8 @@
-<h1 align="center">🌸Hi, I'm Galih Aleanda🌸</h1>
-<h3 align="center">☁️ Backend Engineer in Progress 💻💗</h3>
+<h1 align="center">Hi, I'm Galih Aleanda</h1>
+<h3 align="center">Backend Engineer in Progress</h3>
 
 <p align="center">
-  🌈 Building scalable systems with clean architecture 🌷
+  Building scalable systems with clean architecture
 </p>
 
 <p align="center">
@@ -12,12 +12,11 @@
 </p>
 
 <p align="center">
-  ☁️ ☁️ ☁️ ☁️ ☁️ ☁️ ☁️ ☁️ ☁️
 </p>
 
 ---
 
-## 🌷 About Me
+## About Me
 
 Hi there 👋  
 
@@ -25,7 +24,7 @@ I’m a backend-focused developer who loves understanding
 how systems truly work, from request lifecycle to scalable architecture.
 
 
-🌸 Currently growing in:
+Currently growing in:
 
 - Backend fundamentals  
 - API design & layered architecture  
@@ -34,31 +33,31 @@ how systems truly work, from request lifecycle to scalable architecture.
 - Writing clean and maintainable code  
 
 <p align="center">
-  🌈✨━━━━━━━━━━━ ☁️ ━━━━━━━━━━━✨🌈
+  
 </p>
 
 ---
 
-## 💗 Tech Stack
+## Tech Stack
 
 <div align="center">
 <table>
 <tr>
 <td align="center">
 
-### 🌸 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=go,laravel,js" />
 
 </td>
 <td align="center">
 
-### 🗄 Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
 </td>
 <td align="center">
 
-### 🛠 Tools
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux" />
 
 </td>
@@ -67,34 +66,33 @@ how systems truly work, from request lifecycle to scalable architecture.
 </div>
 
 <p align="center">
-  🐾✨━━━━━━━━━━━ 🌷 ━━━━━━━━━━━✨🐾
 </p>
 
 ---
 
 
-## 🌈 Skill Progression
+## Skill Progression
 
-🌷 Backend Foundations  
+Backend Foundations  
 🩷🩷🩷🩷🤍 80%
 
-🌷 API Design  
+API Design  
 🩷🩷🩷🩷🤍 75%
 
-🌷 Database Modeling  
+Database Modeling  
 🩷🩷🩷🤍🤍 65%
 
-🌷 System Design  
+System Design  
 🩷🩷🩷🩷🤍 40%
 
-🌷 Concurrency  
+Concurrency  
 🩷🩷🤍🤍🤍 35%
 
-🌷 Docker & Deployment  
+Docker & Deployment  
 🩷🩷🤍🤍🤍 40%
 
 <p align="center">
-Leveling up like an RPG character 🎮✨
+Leveling up like an RPG character
 </p>
 
 <p align="center">
@@ -103,9 +101,9 @@ Leveling up like an RPG character 🎮✨
 
 ---
 
-## 🌈 2-Year Roadmap
+## 2-Year Roadmap
 
-### 🌸 Year 1 — Strong Foundations
+### Year 1 — Strong Foundations
 
 - Master backend fundamentals  
 - Deep understanding of HTTP  
@@ -115,11 +113,11 @@ Leveling up like an RPG character 🎮✨
 - Deploy to cloud  
 - Build 3–5 production-style projects  
 
-🎯 Goal: Confident Junior Backend Engineer
+Goal: Confident Junior Backend Engineer
 
 ---
 
-### ☁️ Year 2 — Scaling & Architecture
+### Year 2 — Scaling & Architecture
 
 - Advanced concurrency  
 - Message queues (Kafka / RabbitMQ)  
@@ -129,15 +127,14 @@ Leveling up like an RPG character 🎮✨
 - Security best practices  
 - Build scalable production-grade systems  
 
-🎯 Goal: Mid-Level Backend Engineer ready for system design discussions
+Goal: Mid-Level Backend Engineer ready for system design discussions
 
 <p align="center">
-  🌈✨━━━━━━━━━━━ 💗 ━━━━━━━━━━━✨🌈
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=galihaleanda&theme=rose&hide_border=true" />
@@ -147,5 +144,5 @@ Leveling up like an RPG character 🎮✨
 </p>
 
 <p align="center">
-  💗 Clean code. Soft aesthetics. Scalable systems. ☁️🌸
+  Clean code. Soft aesthetics. Scalable systems.
 </p>
